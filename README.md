@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Joaquín Weiss</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React** and this is my first app
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **joaco.w93@gmail.com**
 
